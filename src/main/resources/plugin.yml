@@ -1,0 +1,10 @@
+main: tech.spencercolton.token.Token
+version: 0.0.1
+name: Token
+commands:
+  addtokens:
+    description: Test
+    usage: "Correct usage: /addtokens <player> <amount>"
+  tokens:
+    description: Test
+    usage: "Correct usage: /tokens"
